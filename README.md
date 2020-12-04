@@ -63,7 +63,7 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    git clone https://github.com/marmittfull/gostack-challenge-reactnative.git
    ```
-2. Install yarn packages
+2. Install repository packages
    ```sh
    yarn install
    ```
